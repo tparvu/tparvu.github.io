@@ -1,27 +1,37 @@
 # Ted Parvu
 
-### Computer Security Specialist  
+### Computer Security Specialist
+<ted@tedstechshack.com>  
+Mobile: +1-218-235-4303
 
 ## Summary
 
-With over 20 years of professional experience, I possess a wide breadth of skills and knowledge that enable me to perceive how complex systems behave and interact. From the fundamentals of TCP/IP programming to security situational awareness, I have the experience to understand complex systems and their interactions. This awareness enables me to see vulnerabilities and attack surfaces others may overlook.
+With over 20 years of professional experience, I possess a wide breadth of skills and knowledge that enable me to perceive how complex systems behave and interact.
+From the fundamentals of TCP/IP programming to security situational awareness, I have the experience to understand complex systems and their interactions.
+This awareness enables me to see vulnerabilities and attack surfaces others may overlook.
 
 ## Sample Work Experience
 
 September 2017 - March 2020 **Bloq** _Senior Information Security Engineer_ &mdash; 100% Remote (Ely, MN)
 
 * Architect infrastructure and operations for the world's first autonomous cryptocurrency [metronome.io](https://metronome.io/).
-* Role as cryptography, encryption, secrets management, security, bug bounty, lead expert.
-* Evaluate, Recommend, and manage collaborative services. e.g. Slack, GitHub, GSuite, Signal, etc.
-* DevOps, AWS, Blockchain, cryptocurrency wallet infrastructure operations.
+* Role as cryptography, encryption, secrets management, security, bug bounty, subject matter expert.
+* Evaluate, recommend, and manage collaborative services. e.g. Slack, GitHub, GSuite, Signal, etc.
+* DevOps, Amazon Web Services (AWS)
+  * Opened, designed, implemented and maintained production AWS environment.
+  * Maintained AWS development environment and collaborated with developers.
+  * Collaborated with developers on Agile/DevOps implementation.
+* Blockchain
+  * Cryptocurrency wallet infrastructure operations.
+  * Ethereum, Bitcoin, Geth, Parity, Ethereum Classic, etc.
 * SecOps, Operations, IT management
-* Information Security, Security Operations, Security Consulting
-* Collaborated with team on move to Agile development model.
+* Information Security, Security Operations.
+* Collaborated with team on move to Agile development methodology.
 
 November 2014 - December 2019 **Ted's Tech Shack** _Technology Consultant_ &mdash; Ely, MN Area and Remote
 
 * Consult with local businesses on technology needs.  Implement technology.
-* Small business web site design, implementation, and maintainence.
+* Small business web site design, implementation, and maintenance.
 * Online freelance work.
 * Please reference [Ted's Tech Shack](http://tedstechshack.com) for more information.
 
