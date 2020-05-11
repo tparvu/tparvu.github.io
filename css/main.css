@@ -1,16 +1,48 @@
+body {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.navigation-bar {background-color: white;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  border: medium #ffffff solid;
+  padding: 1%;
+  text-align: center}
+
+.navigation-bar a:link
+.navigation-bar a:visited
+
+.navigation-bar a:link {color: white;
+  text-decoration: none}
+
+.navigation-bar a:hover {background-color: gray;
+  color: blue;
+  text-decoration: none}
+
 P     {
-        font-family: Verdana, Arial, Helvetica;
-        font-size: 12pt;
-        line-height: 12pt;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 1.5em;
+        line-height: 1.4em;
         color: #000000;
         margin-left: 5%;
         margin-right: 5%;
         }
 
+h1, h2, h3, h4 { font-family: 'Arial', 'Helvetica', 'Sans-Serif';
+  color: #000066;
+  text-align: center;
+}
+h1 { font-size: 3em;  }
+h2 { font-size: 2.7em; }
+h3 { font-size: 2.3em; }
+h4 { font-size: 1.9em; }
+
+/***
+
 H1    {
         font-family: Arial, Helvetica;
         font-weight: bold;
-        font-size: 20pt;
+        font-size: 3em;
         color: #000066;
         text-align: center;
         }
@@ -23,11 +55,18 @@ H4      {
         text-align: left;
         }
 
+***/
+
+footer {
+        border-top: 1px solid #d5d5d5;
+        font-size: .8em;
+       }
+
 .quote	{
-	font-family: Verdana, Arial, Helvetica;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	font-size: 12pt;
-	line-height: 14pt;
+	font-size: 1.25em;
+	line-height: 1em;
 	color: #336600;
 	text-align: left;
 	}
