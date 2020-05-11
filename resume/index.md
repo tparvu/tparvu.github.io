@@ -1,3 +1,7 @@
+---
+title: Ted Parvu's Resume
+layout: false
+---
 # Ted Parvu
 
 ### Computer Security Specialist

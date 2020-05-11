@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+
+        <div class="navigation-bar">
+          <a href="/">Home</a> |
+          <a href="/about">About</a> |
+          <a href="/cv">CV</a> |
+          <a href="/resume">Resume</a> |
+          <a href="/blog">Blog</a>
+        </div>
+
+			<div class="container">
+			  {{ content }}
+			</div> <!-- /.container -->
+
+			<footer>
+	    		<p>
+	        	<a href="mailto:ted@tedstechshack.com">email</a> |
+	        	<a href="https://github.com/tparvu">github.com/tparvu</a>
+          </p>
+			</footer>
+
+		</body>
+	</html>
