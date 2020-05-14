@@ -9,4 +9,4 @@ I attended college at the University of Arizona where I was privileged to work w
 Over time I became an Open Source, Privacy, and Security advocate.
 For as long as I can remember, I have been in love with the natural world.
 That love has grown into a passion to defend the environment.
-Some areas I have worked in are; computing, information security, control systems, artificial intelligence, outfitting, bear wrangling, and most recently, in Blockchain technology.
+Some areas I have worked in are; computing, information security, control systems, artificial intelligence, outfitting, bear wrangling, and most recently, in blockchain technology.
