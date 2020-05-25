@@ -1,6 +1,8 @@
 body {
   margin-left: 5%;
   margin-right: 5%;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1em;
 }
 
 .navigation-bar {background-color: white;
@@ -73,7 +75,17 @@ footer {
 	font-size: 1.25em;
 	line-height: 1em;
 	color: #336600;
-	text-align: left;
+	text-align: center;
+	}
+
+.quoter	{
+	margin-left: 25%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 1.25em;
+	line-height: 1em;
+	color: #336600;
+	text-align: right;
 	}
 
 .quote2	{
@@ -100,7 +112,6 @@ footer {
   line-height: 1em;
   color: #000000;
   text-align: left;
-  margin-left:10%;
 }
 
 .small {
@@ -108,3 +119,30 @@ footer {
        line-height: .25em;
        color: #000000;
        }
+
+.redacted {
+	color: red;
+	background-color: black;
+}
+
+blockquote {
+	width: 70%;
+  	margin-left: 15%;
+  	margin-right: 15%;
+	background-color: #f9f9f9;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	box-shadow: 1px 1px 1px #ccc;
+	font-style: italic;
+}
+blockquote cite:before {
+	content: "\2014 \2009";
+}
+
+.thinking {
+	width: 70%;
+  	margin-left: 15%;
+  	margin-right: 15%;
+	font-style: oblique;
+	background-color: transparent;
+}
