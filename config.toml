@@ -1,0 +1,57 @@
+baseURL = "https://ted.parvu.net/"
+languageCode = "en-us"
+title = "Ted Parvu"
+theme = "researcher"
+googleAnalytics = "G-4F7MVDE1M1"  # add your tracking id
+disablePathToLower = "true"
+
+[params]
+    author = "Ted Parvu"
+    favicon = "favicon.ico"
+    [params.footer]
+        text = "by Ted Parvu"
+        url = "https://ted.parvu.net"
+    [params.style]  # appearance options (can be omitted)
+        fontFamily = "Inconsolata"  
+        #fontFamily = "Verdana"
+        pageWidth = "1000px"
+        avatarSize = "90px"
+        colorBlack = "#222222"
+        colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/tedparvu/"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:ted@tedstechshack.com"
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title ="GitHub" 
+    url = "https://github.com/tparvu"
+  [[params.socialIcons]]
+    icon = "fab fa-keybase"
+    title = "Keybase"
+    url = "https://keybase.io/ted_parvu"
+
+[menu]
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 1
+    [[menu.main]]
+        name = "CV"
+        url = "/ted_parvu_CV"
+        weight = 2
+    [[menu.main]]
+        name = "Computer Security"
+        url = "/ted_parvu_security_resume"
+        weight = 3
+    [[menu.main]]   
+        name = "C Developer"
+        url = "/ted_parvu_C_developer"
+        weight = 4
+   
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
