@@ -2,11 +2,10 @@
 layout: default
 title: Ted Parvu - Computer Security Specialist
 ---
-# {{ page.title }}
+# Ted Parvu - Computer Security Specialist
 
 <div id="webaddress">
-  <ted@tedstechshack.com> |
-  Mobile: +1-218-235-4303
+  ted@tedstechshack.com | Mobile: +1-218-235-4303
 </div>
 
 ## Summary
