@@ -10,7 +10,7 @@ disablePathToLower = "true"
     favicon = "favicon.ico"
     [params.footer]
         text = "by Ted Parvu"
-        url = "https://ted.parvu.net"
+        url = "https://parvu.net"
     [params.style]  # appearance options (can be omitted)
         fontFamily = "Inconsolata"  
         #fontFamily = "Verdana"
