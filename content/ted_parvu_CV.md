@@ -7,7 +7,7 @@ layout: default
 </head>
 
 # Ted Parvu's Curriculum Vitae
-Open Source, Privacy & Security Advocate, Wildlife Defender, Social System Architect.
+Open Source, Privacy & Security Advocate, Wildlife Defender, DAO Advocate.
 
 <div id="webaddress">
 <a href="tel:+1-218-235-4303">+1-218-235-4303</a> | <a href="mailto:ted@tedstechshack.com">ted@tedstechshack.com</a> | <a href="https://github.com/tparvu" target="_blank">GitHub</a> | <a href="https://tparvu.github.io" target="_blank">tparvu.github.io</a> | <a href="https://keybase.io/ted_parvu" target="_blank">keybase.io</a> | <a href="https://medium.com/@ted_parvu" target="_blank">Medium</a> | <a href="https://www.linkedin.com/in/tedparvu/" target="_blank">LinkedIn</a>
