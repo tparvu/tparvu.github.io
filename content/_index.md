@@ -3,8 +3,8 @@
 
 <hr>
 
-Ted Parvu's [CV](ted_parvu_CV.html)
+Ted Parvu's [CV](ted_parvu_CV)
 
-Computer Security [resume](ted_parvu_security_resume.html)
+Computer Security [resume](ted_parvu_security_resume)
 
-Senior C Developer [dev_res](ted_parvu_C_developer.html)
+Senior C Developer [dev_res](ted_parvu_C_developer)

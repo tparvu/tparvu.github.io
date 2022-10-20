@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Ted Parvu’s Curriculum Vitae
 ---
 
 <head>
@@ -8,13 +7,13 @@ title: Ted Parvu’s Curriculum Vitae
 </head>
 
 # Ted Parvu's Curriculum Vitae
-Computer Security, Blockchain, DevOps, Wildlife Advocate, Egalitarian
+Open Source, Privacy & Security Advocate, Wildlife Defender, Social System Architect.
 
 <div id="webaddress">
-<a href="tel:+1-218-235-4303">+1-218-235-4303</a> | <a href="mailto:ted@tedstechshack.com">ted@tedstechshack.com</a> | <a href="https://github.com/tparvu" target="_blank">GitHub</a> | <a href="https://keybase.io/ted_parvu" target="_blank">keybase.io</a> | <a href="https://www.linkedin.com/in/tedparvu/" target="_blank">LinkedIn</a>
+<a href="tel:+1-218-235-4303">+1-218-235-4303</a> | <a href="mailto:ted@tedstechshack.com">ted@tedstechshack.com</a> | <a href="https://github.com/tparvu" target="_blank">GitHub</a> | <a href="https://tparvu.github.io" target="_blank">tparvu.github.io</a> | <a href="https://keybase.io/ted_parvu" target="_blank">keybase.io</a> | <a href="https://medium.com/@ted_parvu" target="_blank">Medium</a> | <a href="https://www.linkedin.com/in/tedparvu/" target="_blank">LinkedIn</a>
 </div>
 
-## About
+## About Me
 
 My fascination with computing started in 1981 when my parent's gave me a Sinclair ZX-81.
 I attended college at the University of Arizona where I was privileged to work with world-renowned optical scientists and astronomers.
@@ -25,13 +24,48 @@ I have worked in computing, information security, control systems, artificial in
 
 ## Employment
 
+`July 2021 - present`
+[__Inspire11__](https://inspire11.com) &mdash; Chicago office, remote (Ely, Minnesota)<br>
+_Technical Consultant_
+
+Inspire11 is a full service, digital and management consulting firm dedicated to making an impact for our clients, employees and communities. 
+We believe that Change and Disruption are guaranteed. 
+Evolution and relevancy are the keys to building sustainable organizations that will serve generations to come.
+
+Technical consultant specializing in security, blockchain, DevOps, CI/CD, AWS Infrastucture, developer workflow.
+
+__DevOps – Fortune 500 logistics and manufacturing company__
+Rapid development of a proof of concept customer portal.
+Identified initial AWS setup, investigated AWS managed services, setup GitLab accounts and environments. 
+Implemented GitLab CI/CD pipelines, container services, and setup of AWS App Runner managed service. 
+Setup pipeline secrets management. 
+Private GitLab runners and pools. 
+Worked with developers to create a DevOps work flow.
+
+__DevOps - Nationwide chiropractic network__
+Minimum viable product development for corporation's first cloud application. 
+Initial DevOps lift in Azure DevOps. 
+Setup CI/CD pipelines, secrets management, container registries, build process, and deployment. 
+Setup Azure Kubernetes Service to host application.
+Worked with developers on Kubernetes. 
+Worked closely with Architect to bring vision to life whilst keeping everything secure and reliable.
+
+__DevOps – Fortune 500 financial institution__
+Investigated abandoned DevOps infrastructure responsible for running a production application. After exhaustive research and trial and error, recommended refactoring the infrastructure while working with the development team. 
+Architected and implemented AWS Aurora Database multi-region clusters. Wrote IaC to migrate current database to multi-region redundant clusters. This was to meet disaster recovery needs.
+Worked with Gitlab pipelines, CI/CD runners, and large teams of developers, admins, and stake holders.
+
+__Business Development__
+Worked with multiple teams, as DevOps SME, to build proposals.
+Pursued potential clients in Blockchain space.
+
 `February 2021 - May 2021`
-[__Titan Industries__](https://titan.io) &mdash; Fully distributed team (Ely, Minnesota)<br>
+[__Titan__](https://titan.io) &mdash; Fully distributed team (Ely, Minnesota)<br>
 _DevOps Engineering Lead_
 
 Titan is a leading developer of software and services for advancing Bitcoin mining at scale.
 
-Responsible for AWS, operations, maintenance, security, for Titan Bitcoin mining pool.
+Responsible for AWS infrastructure design, operations, maintenance, security, CI/CD, for Titan Bitcoin mining pool.
 
 Provided configuration management, security, public key infrastructure, automated maintenance, monitoring, alarms, infrastructure as code, for AWS and Linux environments.
 
@@ -321,18 +355,16 @@ Surveillance and wildlife video and audio.
 
 ## Sample of tools known
 
-* Git, GitHub, GitLab, CVS
-* Ansible, Terraform, Docker, Travis
-* pfSense, IPFire, UFW, iptables
+* Git, GitHub, CVS
 * Linux, UNIX, RedHat, CentOS, Debian, Ubuntu, Arch, Solaris, SunOS, AIX, HP-UX, FreeBSD, SCO UNIX, NetBSD, OpenBSD
 * DOS, Windows, macOS
 * Apache, SQL, MongoDB, Redis, ScyllaDB
-* VMware, VirtualBox, Docker, DockerHub, LXD, LXC
+* VMware, VirtualBox, Docker, DockerHub, LXD, LXC, Travis
 * SSH, GnuPG, PGP, Nmap, OpenSSL, OpenVPN
-* Golang, Bash, C, Pascal, TCP/IP, Sockets, WebSockets
+* Bash, C, Pascal, TCP/IP, Sockets, WebSockets
 * Blockchain, Bitcoin, Geth, Parity, Ethereum
 * Amazon Web Services (AWS), DigitalOcean, PaperTrail, LogicMonitor, DataDog
-* Signal, Zendesk, Slack, Zoom, Google Workspace
+* Signal, Zendesk, Slack, Zoom, GSuite
 
 ## Personal Interests
 
@@ -342,13 +374,11 @@ Gardening, permaculture, rewilding, foraging, tracking, Traditional Ways, crafts
 
 Consensus decision making, social systems, egalitarian societies, intentional communities.
 
-Applied decentralized autonomous organizations. 
-
 ## Computer Skills
 
 I possess very strong skills in UNIX C programming, UNIX system administration, and computer security.
 
-I am experienced in systems integration, engineering, testing, agile software development, and traditional software development.
+I am experienced in systems integration, engineering, and testing.
 
 I possess a variety of related skills such as web administration, Microsoft and Apple software and systems. Networking, database administration, customer support, software and systems analysis, technical documentation.
 
