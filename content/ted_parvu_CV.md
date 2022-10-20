@@ -34,6 +34,31 @@ Evolution and relevancy are the keys to building sustainable organizations that 
 
 Technical consultant specializing in security, blockchain, DevOps, CI/CD, AWS Infrastucture, developer workflow.
 
+__DevOps – Fortune 500 logistics and manufacturing company__
+Rapid development of a proof of concept customer portal.
+Identified initial AWS setup, investigated AWS managed services, setup GitLab accounts and environments. 
+Implemented GitLab CI/CD pipelines, container services, and setup of AWS App Runner managed service. 
+Setup pipeline secrets management. 
+Private GitLab runners and pools. 
+Worked with developers to create a DevOps work flow.
+
+__DevOps - Nationwide chiropractic network__
+Minimum viable product development for corporation's first cloud application. 
+Initial DevOps lift in Azure DevOps. 
+Setup CI/CD pipelines, secrets management, container registries, build process, and deployment. 
+Setup Azure Kubernetes Service to host application.
+Worked with developers on Kubernetes. 
+Worked closely with Architect to bring vision to life whilst keeping everything secure and reliable.
+
+__DevOps – Fortune 500 financial institution__
+Investigated abandoned DevOps infrastructure responsible for running a production application. After exhaustive research and trial and error, recommended refactoring the infrastructure while working with the development team. 
+Architected and implemented AWS Aurora Database multi-region clusters. Wrote IaC to migrate current database to multi-region redundant clusters. This was to meet disaster recovery needs.
+Worked with Gitlab pipelines, CI/CD runners, and large teams of developers, admins, and stake holders.
+
+__Business Development__
+Worked with multiple teams, as DevOps SME, to build proposals.
+Pursued potential clients in Blockchain space.
+
 `February 2021 - May 2021`
 [__Titan__](https://titan.io) &mdash; Fully distributed team (Ely, Minnesota)<br>
 _DevOps Engineering Lead_
@@ -41,6 +66,10 @@ _DevOps Engineering Lead_
 Titan is a leading developer of software and services for advancing Bitcoin mining at scale.
 
 Responsible for AWS infrastructure design, operations, maintenance, security, CI/CD, for Titan Bitcoin mining pool.
+
+Provided configuration management, security, public key infrastructure, automated maintenance, monitoring, alarms, infrastructure as code, for AWS and Linux environments.
+
+Managed GitLab repositories, Google Workspace, enterprise access management, AWS, bare metal servers, Slack, VPNs.
 
 `September 2017 - March 2020`
 [__Bloq__](https://bloq.com) &mdash; Fully distributed team (Ely, Minnesota)<br>
